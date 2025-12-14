@@ -54,23 +54,23 @@ System design & implementation: smartsweet-backend/PROJECT_OVERVIEW.md
 ✔ MySQL Database Integration
 ✔ Test-Driven Development (TDD) Workflow
 
-## Tech Stack
+## Tech Stack: 
 
-Frontend
-React
-JavaScript
-CSS (Custom UI theming)
+    Frontend
+    React
+    JavaScript
+    CSS (Custom UI theming)
 
-Backend
-Java
-Spring Boot
-Spring Security (JWT)
-MySQL
+    Backend
+    Java
+    Spring Boot
+    Spring Security (JWT)
+    MySQL
 
-Tools
-Git & GitHub
-Maven
-VS Code / IntelliJ IDEA
+    Tools
+    Git & GitHub
+    Maven
+    VS Code / IntelliJ IDEA
 
 ## Setup Checklist
 
