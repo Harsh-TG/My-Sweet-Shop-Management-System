@@ -1,4 +1,4 @@
-# Sweet Shop Management System
+# My Sweet Shop Management System
 
 A full-stack inventory and billing application for sweet shops, built using Test-Driven Development (TDD) principles with a modern backend and responsive frontend.
 
