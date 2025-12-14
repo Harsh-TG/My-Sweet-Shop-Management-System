@@ -54,6 +54,24 @@ System design & implementation: smartsweet-backend/PROJECT_OVERVIEW.md
 ✔ MySQL Database Integration
 ✔ Test-Driven Development (TDD) Workflow
 
+## Tech Stack
+
+Frontend
+React
+JavaScript
+CSS (Custom UI theming)
+
+Backend
+Java
+Spring Boot
+Spring Security (JWT)
+MySQL
+
+Tools
+Git & GitHub
+Maven
+VS Code / IntelliJ IDEA
+
 ## Setup Checklist
 
 Update database credentials in
@@ -71,4 +89,6 @@ Register a new account or log in
 👤 Author
 
 Harsh Tyagi
-B.Tech – Computer Science & Engineering
+B.Tech – Computer Science & Design
+
+📌 This project demonstrates practical full-stack development skills, secure authentication, and clean UI design (JSR)
