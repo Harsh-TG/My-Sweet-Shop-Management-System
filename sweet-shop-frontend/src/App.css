@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ===== GLOBAL APP BACKGROUND ===== */
+.App {
+  min-height: 100vh;
+
+  /* NEW BACKGROUND THEME */
+  background: linear-gradient(135deg, #4facfe 0%, #00c6ff 100%);
+}
+
+/* ===== Utility Classes ===== */
+.btn-primary {
+  background: linear-gradient(135deg, #4facfe 0%, #00c6ff 100%);
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.25);
+}
+
+.btn-primary:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.error-message {
+  background: #ffecec;
+  color: #c0392b;
+  padding: 12px;
+  border-radius: 8px;
+  margin: 10px 0;
+  border-left: 4px solid #c0392b;
+}
+
+.loading {
+  text-align: center;
+  padding: 50px;
+  font-size: 20px;
+  color: #ffffff;
+}
